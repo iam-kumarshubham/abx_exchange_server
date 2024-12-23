@@ -1,0 +1,15 @@
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\bin\Debug\net6.0\ABXClient.exe
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\bin\Debug\net6.0\ABXClient.deps.json
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\bin\Debug\net6.0\ABXClient.runtimeconfig.json
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\bin\Debug\net6.0\ABXClient.dll
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\bin\Debug\net6.0\ABXClient.pdb
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.csproj.AssemblyReference.cache
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.AssemblyInfoInputs.cache
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.AssemblyInfo.cs
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.csproj.CoreCompileInputs.cache
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.dll
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\refint\ABXClient.dll
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.pdb
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ABXClient.genruntimeconfig.cache
+C:\Users\kumar\OneDrive\Desktop\abx_exchange_server\abx_exchange_server\ABXClient\obj\Debug\net6.0\ref\ABXClient.dll
